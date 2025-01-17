@@ -1,5 +1,5 @@
 # Ideas-and-problems
-From a brainstorm in my first hackathon.
+From a brainstorm in my first hackathon(European Defense Tech).
 
  1 ideas:
  AI used to defend against PsyOps.
